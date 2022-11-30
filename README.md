@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad-Rizwan-Shafiq (Senior Flutter Developer)
 - 👀 I’m interested in flutter development roles
-- 🌱 I’m currently learning Android Native development and Java Spring for Backend.
+- 🌱 I’m currently learning Android Native development and Java Spring.
 - 💞️ I’m looking to collaborate on flutter development related stuff
 - 📫 You can contact me at : muhammadrizwanshafiq@gmail.com
 
